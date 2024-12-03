@@ -15,11 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< Updated upstream
-          Welcome to our page
-=======
           Welcome to our page!!
->>>>>>> Stashed changes
         </a>
       </header>
     </div>
