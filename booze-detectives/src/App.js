@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Welcome to our page
-          Welcome to our page!!
         </a>
       </header>
     </div>
